@@ -1,0 +1,9 @@
+.treatments-banner-text> h1{
+    color: #02594d;
+    font-family: open sans,prompt,noto sans jp,noto sans sc,amiri,padauk,hanuman,sans-serif;
+}
+.treatments-banner-text> hr{
+    width: 100px;
+    padding: 2px;
+    color:#997f48;
+}

@@ -1,0 +1,50 @@
+.form-container{
+    padding: 100px 0;
+}
+.input{
+    width: 400px;
+    height: 40px;
+    margin: 10px 0;
+    border:none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.login-btn{
+    background-color: #0bb288;
+    padding: 8px 175px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin: 8px 0;
+}
+.login-btn:hover{
+    background-color: #248a70;
+    
+}
+.google-btn{
+    padding: 8px 15px;
+    font-size: 30px;
+    border: 1px solid #0bb288;
+    color: #0bb288;
+    border-radius: 5px;
+}
+
+.google-btn:hover{
+    background-color: #0bb288;
+    color: white;
+    border: none;
+}
+
+
+@media only screen and (max-width:990px) {
+    .input{
+        width: 300px;
+        height: 40px;
+        margin: 10px 0;
+        padding-left: 10px;
+    }
+    .login-btn{
+        padding: 8px 125px;
+    }
+    
+}

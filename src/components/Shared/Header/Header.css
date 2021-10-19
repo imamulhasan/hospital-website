@@ -1,0 +1,26 @@
+
+.nav-route a{
+    color: #0bb288;
+}
+.nav-route a:hover{
+    color: gray;
+}
+
+
+@media only screen and (max-width:990px) {
+    .nav-logo{
+        height: 40px;
+    }
+    .nav-route{
+        text-align: center;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .singout-btn{
+        margin-top: 10px;
+    }
+    .profile-name{
+        margin-right: 30px;
+    }
+    
+}

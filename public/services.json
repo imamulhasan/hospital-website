@@ -1,0 +1,86 @@
+[
+    {
+      "id": "1",
+      "name": "Drug Genes BH MedGene Package",
+      "price": 10.99,
+      "img": "https://i.ibb.co/02kVTFL/1.jpg",
+      "description": "Detail of Healthy Heart Package B: This package is suitable for those who are part of at least two risk factor groups inside with abnormal EKG results"
+    },
+    {
+      "id": "2",
+      "name": "ProFacial Duo Brightening",
+      "price": 6.99,
+      "img": "https://i.ibb.co/gRKM64n/2.jpg",
+      "description": "ProFacial is the advanced transdermal delivery PERFECT facial care solution by combining four technologies of Aqua Peeling, lonto Lifting, Multipolar RF and Ultrasound to provide safe and painless deep cleanse, hydrates and renews the skin."
+    },
+    {
+      "id": "3",
+      "name": "Hemorrhoidectomy (closed)",
+      "price": 7,
+      "img": "https://i.ibb.co/KKyWBsW/3.jpg",
+      "description": "Surgical treatment is the option if other options are not effective or in severe cases or the last stages of hemorrhoids i.e. stage 3 or 4 (external, inflamed). However, it gives the quickest result of treatment."
+    },
+    {
+      "id": "4",
+      "name": "Immune Response for COVID-19 after Vaccination",
+      "price": 5.44,
+      "img": "https://i.ibb.co/b7PZYRz/4.jpg",
+      "description": "Determination of IgG antibodies against SARS-CoV-2 spike protein in human serum as an aid in evaluating immune status of infected individuals and monitoring antibody response in individuals that have received the COVID-19 vaccine."
+    },
+    {
+      "id": "5",
+      "name": "Initial immune assessment (ESP)",
+      "price": 8,
+      "img": "https://i.ibb.co/zn4c0XV/5.png",
+      "description": "The immune system is the primary barrier that protect the body from pathogens. the current virus outbreak brought us to focus on immune health. Good immune system could protect us from certain disease formation, reduce disease severity and duration of illness."
+    },
+    {
+      "id": "6",
+      "name": "Colon Hydrotherapy",
+      "price": 10.22,
+      "img": "https://i.ibb.co/YRK6Zgk/6.jpg",
+      "description": "Colon Hydrotherapy is a natural, safe and easy procedure that helps your body get rid of toxins that may be residing in your large intestine."
+    },
+    {
+      "id": "7",
+      "name": "Long COVID-19 Package",
+      "price": 9.99,
+      "img": "https://i.ibb.co/crsQphN/treat1.jpg",
+      "description": "Many of COVID19 survivors still have symptoms preventing them from feeling back to healthy. This chronic condition is called \"Long COVID-19\" or \"Post COVID-19 Syndrome\""
+    },
+    {
+      "id": "8",
+      "name": "Laparoscopic Cystectomy",
+      "price": 4.99,
+      "img": "https://i.ibb.co/BZrDq3k/treat2.jpg",
+      "description": "Laparoscopic Cystectomy is the removal of ovarian cysts. An oophorectomy is the removal of the ovaries, which can both diagnose and treat ovarian cysts by minimally invasive procedure where small incisions are made in the abdomen to insert a small camera and surgical instruments to record images that are then displayed on a monitor."
+    },
+    {
+      "id": "9",
+      "name": "Allergy Free At Home – Food Lover",
+      "price": 7.5,
+      "img": "https://i.ibb.co/9HshW3Y/3.jpg",
+      "description": "After identifying the triggers behind your allergies, you will receive a teleconsultation with an Allergist to review your daily lifestyle habits and choose the most suitable treatment package. "
+    },
+    {
+      "id": "10",
+      "name": "Sports Medicine & Joint Center",
+      "price": 5.5,
+      "img": "https://i.ibb.co/DKPvg7R/4.jpg",
+      "description": "Computer-aided imaging and surgical alignment to reduce complications, restore pain-free movement faster. Multidisciplinary team includes physical therapists. "
+    },
+    {
+      "id": "11",
+      "name": "Dental Center",
+      "price": 6,
+      "img": "https://i.ibb.co/TrCvLsX/5.jpg",
+      "description": "It offers services- dental implants, braces, filling, root canal treatment, extraction, oral surgery by highly qualified internationally trained dentists"
+    },
+    {
+      "id": "12",
+      "name": "Arrhythmia Center",
+      "price": 8.3,
+      "img": "https://i.ibb.co/sghNd8R/6.jpg",
+      "description": "At Bumrungrad,s Arrhythmia Center internationally trained Thai cardiologists use advanced electrophysiology treatment to correct irregular heartbeats"
+    }
+  ]

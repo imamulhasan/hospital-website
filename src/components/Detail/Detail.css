@@ -1,0 +1,18 @@
+.detail-title{
+    color: #0bb288;
+}
+.detail-text{
+    text-align: justify;
+}
+
+.appointment-btn{
+    background-color: #0bb288;
+    color: #fff;
+    border-radius: 5px;
+
+}
+.appointment-btn:hover{
+    background-color: #2b816c;
+    color: #fff;
+
+}

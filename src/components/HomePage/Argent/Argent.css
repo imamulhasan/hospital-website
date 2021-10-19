@@ -1,0 +1,44 @@
+.logo-doctor{
+    border: 2px solid white;
+    margin: auto;
+    margin-top: 5px;
+    padding: 15px 20px;
+    border-radius: 60px;
+
+}
+.logo-plus{
+    border: 2px solid white;
+    margin: auto;
+    margin-top: 5px;
+    padding: 15px 15px;
+    border-radius: 60px;
+
+}
+.logo-chart{
+    border: 2px solid white;
+    margin: auto;
+    margin-top: 5px;
+    padding: 15px 20px;
+    border-radius: 60px;
+
+}
+.argent-doctor{
+    background-color:#0bb288 ;
+    color: white;
+}
+.argent-incuiry{
+    background-color: gray;
+    color: white;
+}
+.argent-appointment{
+    background-color: #af9763;
+    color: white;
+}
+
+.argent-link{
+    color: #fff;
+}
+
+.argent-link:hover{
+    color: #fff;
+}

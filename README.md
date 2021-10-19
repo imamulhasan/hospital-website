@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+# Welcome to Bumrungrad International Hospital!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bumrungrad hospital live link[Bumrungrad hospital](https://bumrungrad-hospital.web.app).
 
-## Available Scripts
+## 5 features of this website
 
-In the project directory, you can run:
+1.This website is a hospital web site. You can take various services including seeing a doctor online.
 
-### `npm start`
+2.Inside the website navbar there are 5 routes to home, services, doctors, About us, login.When the account is logged in, the login will go up and the "Sign Out" button will sit. And next to it will show the user's email text.You will also see three cards under the carousel. Clicking on their names will show you various information.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3.If you go to the bottom of the home page, you will see many service cards. It contains various information. You will see "see details" below. If you click there, you will see the detailed information if you are logged in and if you are not logged in, you will see when you login. There you will see more detailed information along with the price and appointment button. Clicking on the button will make your appointment successful.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+4.If you click on the Doctor's Route in Navbar, you will see the information cards of many doctors in the hospital. There you can make an appointment with the doctor of your choice. You will find the appointment button below. If you are logged in, the appointment will be successful immediately and if you are not logged in, you will have to login.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+5.You will see the "About Us" route in the navbar. Click to find out about the hospital. You will also learn about the success of our hospital.

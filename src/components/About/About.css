@@ -1,0 +1,21 @@
+/* care-info part style */
+.care-info h2{
+color: #0bb288;
+}
+.care-info p{
+    text-align: justify;
+    color: #343535;
+}
+
+/* Quality and Collaboration of Expertise part syle */
+
+.quality-info> h4{
+    color: #02594d;
+}
+.quality-info> hr{
+    color: #02594d;
+}
+.quality-info> p{
+    text-align: justify;
+    color: #343535;
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Capt.Dr. Sukitti Panpunnung R.T.N",
+      "img": "https://i.ibb.co/bgPGDm7/1.jpg",
+      "specialist": "Cardiology (Heart),Internal Medicine"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Roekchai Tulyapronchote",
+      "img": "https://i.ibb.co/wyr8d7H/2.jpg",
+      "specialist": "Neurology (Nerve)"
+    },
+    {
+      "id": 3,
+      "name": "Assist.Prof.Dr. Krairerk Athirakul",
+      "img": "https://i.ibb.co/6WjfcRf/3.jpg",
+      "specialist": "Internal Medicine"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Lily Chaisompong",
+      "img": "https://i.ibb.co/BBL6M1J/4.jpg",
+      "specialist": "Internal Medicine (Geriatric)"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Sasitorn Siritho",
+      "img": "https://i.ibb.co/YfnbqF3/5.jpg",
+      "specialist": "Neurology (Nerve)"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Oraporn Sitburana",
+      "img": "https://i.ibb.co/gZqjTvs/6.jpg",
+      "specialist": "MBBS,BCS"
+    }
+  ]
