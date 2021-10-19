@@ -28,7 +28,7 @@ const Treatments = () => {
             </Row>
             <div className="text-center mt-4">
                 <Link to="/services">
-                <button className="border-0 btn btn-outline-success">See More Services..</button>
+                <button className="border-0 px-4 py-2 rounded text-light more-service-btn">See More Services..</button>
                 </Link>
             </div>
         </div>

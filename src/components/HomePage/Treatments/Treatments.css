@@ -7,3 +7,11 @@
     padding: 2px;
     color:#997f48;
 }
+.more-service-btn{
+    background-color: #0bb288;
+    
+}
+.more-service-btn:hover{
+    background-color: #178368;
+
+}
