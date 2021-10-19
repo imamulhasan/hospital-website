@@ -1,6 +1,6 @@
 # Welcome to Bumrungrad International Hospital!
 
-Bumrungrad hospital live link[Bumrungrad hospital](https://bumrungrad-hospital.web.app).
+Bumrungrad hospital live link [https://bumrungrad-hospital.web.app](https://bumrungrad-hospital.web.app).
 
 ## 5 features of this website
 
