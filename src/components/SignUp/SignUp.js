@@ -27,7 +27,7 @@ const SignUp = () => {
     }
 
 
-    // handle Sign Up---------------------
+    // handle Sign Up--------------------
 
     const handleSignUp =(e) =>{
         e.preventDefault()
@@ -74,7 +74,7 @@ const SignUp = () => {
                     <p className="text-danger"><small>{erorr}</small></p>
                     <input onClick={handleSignUp} className="login-btn" type="submit" value="Sign Up" />
                 </form>
-                <Link to="login">
+                <Link to="/login">
                 <p className="text-center">Already have an account?</p>
                 </Link>
                 <p className="text-center">--------------or google sign in--------------</p>
